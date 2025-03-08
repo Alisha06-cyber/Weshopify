@@ -15,10 +15,10 @@ public class RoleBean implements Serializable {
 	
 	private String id;
 	
-	private String dispalyname;
+	private String displayName;
 	
-	private List<String> permissions;
-	
-	private String[] schemas;
+//	private List<String> permissions;
+//	
+//	private String[] schemas;
 	
 }
